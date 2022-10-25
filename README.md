@@ -1,6 +1,7 @@
 # Бричков Никита, 041 группа
 ![N|Solid](https://storage.theoryandpractice.ru/tnp/uploads/image_block/000/052/014/image/base_d9dd9b626f.jpg)
 
+
 <!--
 **EvilCarr0t/EvilCarr0t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
