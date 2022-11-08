@@ -20,3 +20,13 @@ $$ A=\frac{m}{\mu}RTln\frac{P_1}{P_2} $$
 Сумма моментов, действующих на рамку
 
 $$ \sum M_i = IBSsin\alpha $$
+
+
+
+![lagrida_latex_editor (3)](https://user-images.githubusercontent.com/114459505/200477967-c5785252-deb5-4c78-8231-7c8bf0d3fb6f.png)
+
+
+![lagrida_latex_editor (4)](https://user-images.githubusercontent.com/114459505/200478045-0efef815-3b48-4fcf-9005-3f16f9d73ad1.png)
+
+
+![lagrida_latex_editor (5)](https://user-images.githubusercontent.com/114459505/200478076-ad7375df-bf80-40e2-b625-239b241bf0ba.png)
