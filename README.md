@@ -33,3 +33,5 @@ $$ \sum M_i = IBSsin\alpha $$
 
 
 <iframe width="769" height="432" src="https://miro.com/app/live-embed/uXjVPD1y1-g=/?moveToViewport=-7169,-2231,1723,858&embedId=157808866950" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+https://app.genial.ly/editor/63731ad8978d3400129beea0
