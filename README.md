@@ -32,6 +32,6 @@ $$ \sum M_i = IBSsin\alpha $$
 ![lagrida_latex_editor (5)](https://user-images.githubusercontent.com/114459505/200478076-ad7375df-bf80-40e2-b625-239b241bf0ba.png)
 
 
-<iframe width="769" height="432" src="https://miro.com/app/live-embed/uXjVPD1y1-g=/?moveToViewport=-7169,-2231,1723,858&embedId=157808866950" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPD1y1-g=/?moveToViewport=-7406,-2287,2190,1109&embedId=679918713050" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 https://app.genial.ly/editor/63731ad8978d3400129beea0
