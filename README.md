@@ -39,10 +39,11 @@ https://app.genial.ly/editor/63731ad8978d3400129beea0
 
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.17%; padding-top: 0; height: 0;"><iframe title="Interactive image" frameborder="0" width="1200" height="674" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/6378d7e28460fb0017c365a1" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 
-'''mermaid
+```mermaid
 flowchart LR
 
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]'''
+A[10 класс] -->|переводной| B(11 класс)
+B --> C{ЕГЭ}
+C -->|успех| D[ВУЗ]
+C -->|провал| E[армия, завод]
+```
