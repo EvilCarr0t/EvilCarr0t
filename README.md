@@ -67,4 +67,6 @@ graph TD
 ```
 ![mermaid-diagram-2022-12-20-110912](https://user-images.githubusercontent.com/114459505/208582109-c6adad17-e1ef-451e-8c0c-c260fd5083e5.png)
 
+![image](https://user-images.githubusercontent.com/114459505/208584076-23cb1e35-ac81-4a7e-95cf-c0cd8d8e1e88.png)
+
 ![VK9001_1920x1080](https://user-images.githubusercontent.com/114459505/208582801-28a7d804-c08a-4598-ae63-8dc49708efce.jpg)
